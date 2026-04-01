@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋 I'm Tamojit
 
-<!--
-**Tamojit-1206/Tamojit-1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Beginner Python Developer
+📚 Learning programming and building projects
+🚀 Currently exploring Python and Machine Learning
 
-Here are some ideas to get you started:
+Skills
+- Python
+- Git
+- Basic Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+- Password Generator
+- To-Do List
+- Calculator
+
+Goal
+Improve my programming skills and build useful projects.
