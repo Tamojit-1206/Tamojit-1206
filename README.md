@@ -15,4 +15,4 @@ Projects
 - Calculator
 
 Goal
-Improve my programming skills and build useful projects.
+- Improve my programming skills and build useful projects.
